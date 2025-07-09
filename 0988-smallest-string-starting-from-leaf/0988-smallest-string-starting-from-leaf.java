@@ -14,22 +14,20 @@
  * }
  */
 class Solution {
-    void fun(ArrayList<String> ans,StringBuilder temp, TreeNode root){
-        if(root==null) return;
-        char a=(char) (root.val+97);
-        temp=temp.append(a);
-        if(root.left==null && root.right==null){
-            temp.reverse();
-            ans.add(temp.toString());
-            temp.reverse();
-        }
-        fun(ans,temp,root.left);
-        fun(ans,temp,root.right);
-        temp.deleteCharAt(temp.length() - 1);
+    void fun(List<String> ans, String temp, TreeNode root) {
+    if (root == null) return;
+    temp = (char)(root.val + 'a') + temp;  // prepend instead of append
+    if (root.left == null && root.right == null) {
+        ans.add(temp);
+        return;
     }
+    fun(ans, temp, root.left);
+    fun(ans, temp, root.right);
+}
+
     public String smallestFromLeaf(TreeNode root) {
         ArrayList<String> ans=new ArrayList<>();
-        StringBuilder temp=new StringBuilder();
+        String temp="";
         fun(ans,temp,root);
         String finalAns=ans.get(0);
         for(int i=1;i<ans.size();i++){
