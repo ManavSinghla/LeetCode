@@ -11,10 +11,6 @@ class Solution {
                 sum+=weights[i];
             }
         }
-        // if(c<=days){
-        //     return true;
-        // }
-        // return false;
         return c<=days;
     }
     public int shipWithinDays(int[] weights, int days) {
