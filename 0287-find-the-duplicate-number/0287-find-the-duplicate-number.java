@@ -1,10 +1,9 @@
 class Solution {
     public int findDuplicate(int[] nums) {
         int i=0;
-        int n=nums.length;
-        while(i<n){
+        while(i<nums.length){
             int ci=nums[i]-1;
-            if(nums[i]!=nums[ci]){
+            if(nums[ci]!=nums[i]){
                 int temp=nums[i];
                 nums[i]=nums[ci];
                 nums[ci]=temp;
@@ -13,11 +12,11 @@ class Solution {
                 i++;
             }
         }
-        for(int j=0;j<n;j++){
-            if(nums[j]-1 != j){
+        for(int j=0;j<nums.length;j++){
+            if(nums[j]-1!=j){
                 return nums[j];
             }
         }
-        return n;
+        return -1;
     }
 }
