@@ -1,7 +1,7 @@
 class Solution {
     boolean check(int[] weights,int days,int mid){
-        int c=1;
         int sum=0;
+        int c=1;
         for(int i=0;i<weights.length;i++){
             if(sum+weights[i]>mid){
                 c++;
@@ -11,19 +11,18 @@ class Solution {
                 sum+=weights[i];
             }
         }
-        if(c<=days){
-            return true;
-        }
-        return false;
+        // if(c<=days){
+        //     return true;
+        // }
+        // return false;
+        return c<=days;
     }
     public int shipWithinDays(int[] weights, int days) {
         int low=weights[0];
         int high=0;
         for(int i=0;i<weights.length;i++){
             high+=weights[i];
-            if(low<weights[i]){
-                low=weights[i];
-            }
+            low=Math.max(low,weights[i]);
         }
         int ans=0;
         while(low<=high){
