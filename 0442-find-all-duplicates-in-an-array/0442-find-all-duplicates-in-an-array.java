@@ -1,8 +1,7 @@
 class Solution {
     public List<Integer> findDuplicates(int[] nums) {
         int i=0;
-        int n=nums.length;
-        while(i<n){
+        while(i<nums.length){
             int ci=nums[i]-1;
             if(nums[i]!=nums[ci]){
                 int temp=nums[i];
@@ -13,8 +12,8 @@ class Solution {
                 i++;
             }
         }
-        List<Integer> ans = new ArrayList<>();
-        for(int j=0;j<n;j++){
+        List<Integer> ans=new ArrayList<>();
+        for(int j=0;j<nums.length;j++){
             if(nums[j]-1!=j){
                 ans.add(nums[j]);
             }
