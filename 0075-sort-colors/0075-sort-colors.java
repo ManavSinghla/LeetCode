@@ -3,16 +3,16 @@ class Solution {
         int low=0;
         int mid=0;
         int high=nums.length-1;
-        while(mid<=high){
-            if(nums[mid]==0 && mid==low){
-                low++;
-                mid++;
-            }
-            else if(nums[mid]==0){
+        while(high>=mid){
+            if(nums[mid]==0 && mid!=low){
                 int temp=nums[mid];
                 nums[mid]=nums[low];
                 nums[low]=temp;
                 low++;
+            }
+            else if(nums[mid]==0){
+                low++;
+                mid++;
             }
             else if(nums[mid]==2){
                 int temp=nums[mid];
