@@ -1,15 +1,15 @@
 class Solution {
-    boolean check(int[] piles, int h, int mid){
-        int s=0;
+    boolean check(int[]piles, int h,int mid){
+        int sum=0;
         for(int i=0;i<piles.length;i++){
-            s+=Math.ceil(piles[i]*1.0/mid);
+            sum+=Math.ceil(piles[i]*1.0/mid);
         }
-        return s<=h;
+        return sum<=h;
     }
     public int minEatingSpeed(int[] piles, int h) {
         int low=1;
         int high=piles[0];
-        for(int i=1;i<piles.length;i++){
+        for(int i=0;i<piles.length;i++){
             high=Math.max(piles[i],high);
         }
         int ans=0;
