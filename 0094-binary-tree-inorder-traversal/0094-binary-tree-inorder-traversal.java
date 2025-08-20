@@ -14,10 +14,8 @@
  * }
  */
 class Solution {
-    void fun(List<Integer> ans, TreeNode root){
-        if(root==null){
-            return;
-        }
+    void fun(List<Integer> ans,TreeNode root){
+        if(root==null) return;
         fun(ans,root.left);
         ans.add(root.val);
         fun(ans,root.right);
