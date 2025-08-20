@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-        void fun(int[] ans,int c,TreeNode root){
+    void fun(int[] ans,int c,TreeNode root){
         if(root==null) return;
         c++;
         if(ans[0]<c){
