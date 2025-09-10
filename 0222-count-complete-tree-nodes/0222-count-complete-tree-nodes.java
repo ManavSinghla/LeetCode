@@ -15,17 +15,14 @@
  */
 class Solution {
     void fun(List<Integer> ans,TreeNode root){
-        if(root==null){
-            return;
-        }
-        ans.add(root.val);
+        if(root==null) return;
         fun(ans,root.left);
+        ans.add(root.val);
         fun(ans,root.right);
     }
     public int countNodes(TreeNode root) {
         List<Integer> ans=new ArrayList<>();
         fun(ans,root);
-        int c=ans.size();
-        return c;
+        return ans.size();
     }
 }
