@@ -14,18 +14,15 @@
  * }
  */
 class Solution {
-    void fun(int[] ans,TreeNode root){
+    void fun(int[] a,TreeNode root){
         if(root==null) return;
-        if(root.left!=null && root.left.left==null && root.left.right==null){
-            ans[0]+=root.left.val;
-        }
-        fun(ans,root.left);
-        fun(ans,root.right);
+        if(root.left!=null && root.left.left==null && root.left.right==null) a[0]+=root.left.val;
+        fun(a,root.left);
+        fun(a,root.right);
     }
     public int sumOfLeftLeaves(TreeNode root) {
-        int[] ans =new int[1];
-        ans[0]=0;
-        fun(ans,root);
-        return ans[0];
+        int[] a={0};
+        fun(a,root);
+        return a[0];
     }
 }
