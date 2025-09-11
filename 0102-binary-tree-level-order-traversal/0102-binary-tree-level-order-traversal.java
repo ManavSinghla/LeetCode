@@ -14,26 +14,25 @@
  * }
  */
 class Solution {
-    void func(TreeNode root,List<List<Integer>> re){
+    void fun(List<List<Integer>> ans,TreeNode root){
         if(root==null) return;
-        Queue<TreeNode> queue=new LinkedList<>();
-        queue.add(root);
-        while(!queue.isEmpty()){
-            int levelSize = queue.size();
-            List<Integer> currentLevel = new ArrayList<>();
-            for (int i = 0; i < levelSize; i++) {
-                TreeNode current = queue.poll();
-                currentLevel.add(current.val);
-                if (current.left != null) queue.add(current.left);
-                if (current.right != null) queue.add(current.right);
+        Queue<TreeNode> q=new LinkedList<>();
+        q.add(root);
+        while(!q.isEmpty()){
+            int size=q.size();
+            List<Integer> temp=new ArrayList<>();
+            for(int i=0;i<size;i++){
+                TreeNode currLvl=q.poll();
+                temp.add(currLvl.val);
+                if(currLvl.left!=null) q.add(currLvl.left);
+                if(currLvl.right!=null) q.add(currLvl.right);
             }
-
-            re.add(currentLevel);
+            ans.add(temp);
         }
     }
     public List<List<Integer>> levelOrder(TreeNode root) {
-        List<List<Integer>> re = new ArrayList<>();
-        func(root, re);
-        return re;
+        List<List<Integer>> ans=new ArrayList<>();
+        fun(ans,root);
+        return ans;
     }
 }
