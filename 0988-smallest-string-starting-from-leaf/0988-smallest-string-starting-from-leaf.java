@@ -14,11 +14,13 @@
  * }
  */
 class Solution {
-    void fun(List<String> ans, String temp, TreeNode root) {
+    void fun(String[] ans, String temp, TreeNode root) {
     if (root == null) return;
-    temp = (char)(root.val + 'a') + temp;  // prepend instead of append
+    temp = (char)(root.val + 'a') + temp;
     if (root.left == null && root.right == null) {
-        ans.add(temp);
+        if(ans[0].equals("") || ans[0].compareTo(temp)>0){
+            ans[0]=temp;
+        }
         return;
     }
     fun(ans, temp, root.left);
@@ -26,15 +28,8 @@ class Solution {
 }
 
     public String smallestFromLeaf(TreeNode root) {
-        ArrayList<String> ans=new ArrayList<>();
-        String temp="";
-        fun(ans,temp,root);
-        String finalAns=ans.get(0);
-        for(int i=1;i<ans.size();i++){
-            if(ans.get(i).compareTo(finalAns) <0 ){
-                finalAns=ans.get(i);
-            }
-        }
-        return finalAns;
+        String[] ans={""};
+        fun(ans,"",root);
+        return ans[0];
     }
 }
