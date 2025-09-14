@@ -14,15 +14,15 @@
  * }
  */
 class Solution {
-    void fun(List<Integer> nums,TreeNode root){
+    void fun(TreeNode root,List<Integer> ans){
         if(root==null) return;
-        fun(nums,root.left);
-        nums.add(root.val);
-        fun(nums,root.right);
+        fun(root.left,ans);
+        ans.add(root.val);
+        fun(root.right,ans);
     }
     public int kthSmallest(TreeNode root, int k) {
-        List<Integer> nums=new ArrayList<>();
-        fun(nums,root);
-        return nums.get(k-1);
+        List<Integer> ans=new ArrayList<>();
+        fun(root,ans);
+        return ans.get(k-1);
     }
 }
