@@ -1,8 +1,8 @@
 class Solution {
     int fun(int[] nums,int l,int r){
         if(l==r) return nums[l];
-        int pL=nunm[left]-fun(nums,l+1,r);
-        int pR=nunm[right]-fun(nums,l,r-1);
+        int pL=nums[l]-fun(nums,l+1,r);
+        int pR=nums[r]-fun(nums,l,r-1);
         return Math.max(pL,pR);
     }
     public boolean predictTheWinner(int[] nums) {
