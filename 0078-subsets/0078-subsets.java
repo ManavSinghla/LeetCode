@@ -1,7 +1,7 @@
 class Solution {
-    void fun(List<List<Integer>> ans,List<Integer> temp,int[] nums,int start){
+    void fun(List<List<Integer>> ans,List<Integer> temp,int[] nums,int s){
         ans.add(new ArrayList<>(temp));
-        for(int i=start;i<nums.length;i++){
+        for(int i=s;i<nums.length;i++){
             temp.add(nums[i]);
             fun(ans,temp,nums,i+1);
             temp.remove(temp.size()-1);
