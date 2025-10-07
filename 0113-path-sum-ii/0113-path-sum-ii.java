@@ -14,19 +14,16 @@
  * }
  */
 class Solution {
-    void fun(List<List<Integer>> ans,List<Integer> temp, TreeNode root,int targetSum,int sum){
-        if(root==null){
-            return;
-        }
+    void fun(List<List<Integer>> ans,List<Integer> temp,TreeNode root,int tsum,int sum){
+        if(root==null) return;
+        sum+=root.val;
         temp.add(root.val);
-        if(root.left==null && root.right==null){
-            if(sum+root.val==targetSum){
-                ans.add(new ArrayList<>(temp));
-            }
+        if(root.left==null && root.right==null && tsum==sum){
+            ans.add(new ArrayList<>(temp));
         }
-        fun(ans,temp,root.left,targetSum,sum+root.val);
-        fun(ans,temp,root.right,targetSum,sum+root.val);
-        temp.remove(temp.size()- 1);
+        fun(ans,temp,root.left,tsum,sum);
+        fun(ans,temp,root.right,tsum,sum);
+        temp.remove(temp.size()-1);
     }
     public List<List<Integer>> pathSum(TreeNode root, int targetSum) {
         List<List<Integer>> ans=new ArrayList<>();
