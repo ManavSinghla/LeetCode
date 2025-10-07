@@ -14,19 +14,21 @@
  * }
  */
 class Solution {
-    void fun(String[] ans, String temp, TreeNode root) {
-    if (root == null) return;
-    temp = (char)(root.val + 'a') + temp;
-    if (root.left == null && root.right == null) {
-        if(ans[0].equals("") || ans[0].compareTo(temp)>0){
-            ans[0]=temp;
+    void fun(String[] ans,String temp,TreeNode root){
+        if(root==null) return;
+        int b=(int) 'a';
+        char a=(char) (b+root.val);
+        temp+=a;
+        if(root.left==null && root.right==null){
+            StringBuilder c=new StringBuilder(temp);
+            String d=c.reverse().toString();
+            if(ans[0].equals("") || ans[0].compareTo(d)>0){
+                ans[0]=d;
+            }
         }
-        return;
+        fun(ans,temp,root.left);
+        fun(ans,temp,root.right);
     }
-    fun(ans, temp, root.left);
-    fun(ans, temp, root.right);
-}
-
     public String smallestFromLeaf(TreeNode root) {
         String[] ans={""};
         fun(ans,"",root);
