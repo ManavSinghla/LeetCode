@@ -1,8 +1,7 @@
 class Solution {
     public int[] findErrorNums(int[] nums) {
         int i=0;
-        int n=nums.length;
-        while(i<n){
+        while(nums.length>i){
             int ci=nums[i]-1;
             if(nums[ci]!=nums[i]){
                 int temp=nums[ci];
@@ -11,11 +10,12 @@ class Solution {
             }
             else i++;
         }
-        int[] ans={0,0};
-        for(int j=0;j<n;j++){
-            if(nums[j]!=j+1){
+        int[] ans={-1,-1};
+        for(int j=0;j<nums.length;j++){
+            if(nums[j]-1!=j){
                 ans[0]=nums[j];
                 ans[1]=j+1;
+                break;
             }
         }
         return ans;
