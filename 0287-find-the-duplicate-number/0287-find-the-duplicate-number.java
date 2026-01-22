@@ -9,12 +9,9 @@ class Solution {
                 i--;
             }
         }
-        int ans=-1;
         for(int i=0;i<nums.length;i++){
-            if(nums[i]-1!=i){
-                ans=nums[i];
-            }
+            if(nums[i]!=i+1) return nums[i];
         }
-        return ans;
+        return -1;
     }
 }
