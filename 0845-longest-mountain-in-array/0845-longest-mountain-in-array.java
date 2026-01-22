@@ -22,6 +22,7 @@ class Solution {
                 else break;
             }
             if(i==k) continue;
+            j=i-1;
             ans=Math.max(ans,temp);
         }
         return ans;
