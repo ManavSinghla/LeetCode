@@ -1,38 +1,38 @@
 class Solution {
-    int f(int[] nums, int target) {
-        int low=0;
-        int high=nums.length-1;
+    int fO(int[] nums,int target){
+        int l=0;
+        int h=nums.length-1;
         int ans=-1;
-        while(high>=low){
-            int mid=low+(high-low)/2;
+        while(h>=l){
+            int mid=l+(h-l)/2;
             if(nums[mid]==target){
                 ans=mid;
-                high=mid-1;
+                h=mid-1;   
             }
-            else if(nums[mid]>target) high=mid-1;
-            else low=mid+1;
+            else if(nums[mid]>target) h=mid-1;
+            else l=mid+1;
         }
         return ans;
     }
-    int l(int[] nums, int target) {
-        int low=0;
-        int high=nums.length-1;
+    int lO(int[] nums,int target){
+        int l=0;
+        int h=nums.length-1;
         int ans=-1;
-        while(high>=low){
-            int mid=low+(high-low)/2;
+        while(h>=l){
+            int mid=l+(h-l)/2;
             if(nums[mid]==target){
                 ans=mid;
-                low=mid+1;
+                l=mid+1;   
             }
-            else if(nums[mid]>target) high=mid-1;
-            else low=mid+1;
+            else if(nums[mid]>target) h=mid-1;
+            else l=mid+1;
         }
         return ans;
     }
     public int[] searchRange(int[] nums, int target) {
         int[] ans={-1,-1};
-        ans[0]=f(nums,target);
-        ans[1]=l(nums,target);
+        ans[0]=fO(nums,target);
+        ans[1]=lO(nums,target);
         return ans;
     }
 }
