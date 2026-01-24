@@ -5,12 +5,12 @@ class Solution {
         while(high>=low){
             int mid=low+(high-low)/2;
             if(nums[mid]==target) return true;
-            else if(nums[mid]==nums[low] && nums[high]==nums[mid]){
+            if(nums[low]==nums[mid] && nums[high]==nums[mid]){
                 low++;
                 high--;
             }
-            else if(nums[low]<=nums[mid]){
-                if(nums[low]<=target && target<nums[mid]){
+            else if(nums[mid]>=nums[low]){
+                if(nums[low]<=target && nums[mid]>target){
                     high=mid-1;
                 }
                 else{
@@ -18,7 +18,7 @@ class Solution {
                 }
             }
             else{
-                if(nums[high]>=target && target>nums[mid]){
+                if(nums[high]>=target && nums[mid]<target){
                     low=mid+1;
                 }
                 else{
