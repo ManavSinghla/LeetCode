@@ -3,7 +3,7 @@ class Solution {
         for(int i=1;i<nums.length;i++){
             int key=nums[i];
             int j=i-1;
-            while(j>=0 && nums[j]>key){
+            while(j>=0 && key<nums[j]){
                 nums[j+1]=nums[j];
                 j--;
             }
