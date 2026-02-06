@@ -14,7 +14,7 @@
  * }
  */
 class Solution {
-    void fun(int sum, int[] ans, TreeNode root,int k){
+    void fun(Long sum, int[] ans, TreeNode root,int k){
         if(root==null) return;
         sum+=root.val;
         if(sum==k) ans[0]++;
@@ -22,10 +22,9 @@ class Solution {
         fun(sum,ans,root.right,k);
     }
     public int pathSum(TreeNode root, int targetSum) {
-        if(targetSum==0) return 0;
         if(root==null) return 0;
         int[] ans={0};
-        fun(0,ans,root,targetSum);
+        fun(0L,ans,root,targetSum);
         return ans[0]+pathSum(root.left,targetSum)+pathSum(root.right,targetSum);
     }
 }
