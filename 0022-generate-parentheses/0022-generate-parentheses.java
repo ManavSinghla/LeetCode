@@ -1,19 +1,17 @@
 class Solution {
-    void fun(List<String> res, String ans,int open,int close,int n){
-        if(close==n){
-            res.add(ans);
-        }
+    void fun(List<String> ans, String temp,int n,int open, int close){
+        if(n==close) ans.add(temp);
         if(open<n){
-            fun(res,ans+'(',open+1,close,n);
+            fun(ans,temp+'(',n,open+1,close);
         }
-        if(open>close){
-            fun(res,ans+')',open,close+1,n);
+        if(close<open){
+            fun(ans,temp+')',n,open,close+1);
         }
     }
     public List<String> generateParenthesis(int n) {
-        List<String> res=new ArrayList<>();
-        String ans="";
-        fun(res,ans,0,0,n);
-        return res;
+        List<String> ans=new ArrayList<>();
+        String temp="";
+        fun(ans,temp,n,0,0);
+        return ans;
     }
 }
