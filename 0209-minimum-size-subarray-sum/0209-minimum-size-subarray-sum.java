@@ -4,13 +4,11 @@ class Solution {
         int i=0;
         int j=0;
         int sum=0;
-        int min=n;
         int ans=n+1;
         while(j<n){
             sum+=nums[j];
             while(sum>=target){
-                min=j-i+1;
-                ans=Math.min(min,ans);
+                ans=Math.min(ans,j-i+1);
                 sum-=nums[i];
                 i++;
             }
