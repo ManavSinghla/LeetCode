@@ -14,6 +14,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ManavSinghla/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ManavSinghla/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -80,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -88,4 +90,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
+| [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 <!---LeetCode Topics End-->
