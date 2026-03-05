@@ -15,6 +15,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0198-house-robber](https://github.com/ManavSinghla/LeetCode/tree/main/0198-house-robber/) | Medium |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ManavSinghla/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ManavSinghla/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ManavSinghla/LeetCode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
@@ -71,6 +72,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ManavSinghla/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -79,6 +81,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0146-lru-cache](https://github.com/ManavSinghla/LeetCode/tree/main/0146-lru-cache/) | Medium |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 ## Doubly-Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -133,4 +136,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+## Randomized
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 <!---LeetCode Topics End-->
