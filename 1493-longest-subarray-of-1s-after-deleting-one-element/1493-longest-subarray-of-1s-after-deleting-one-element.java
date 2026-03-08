@@ -5,12 +5,9 @@ class Solution {
         int n=nums.length;
         int c=0;
         int ans=0;
-        int temp=0;
         while(j<n){
             if(nums[j]==1){
-                if(c==1) temp=j-i;
-                else temp=j-i+1;
-                ans=Math.max(temp,ans);
+                ans=Math.max(j-i+1,ans);
                 j++;
             }
             else{
@@ -25,7 +22,6 @@ class Solution {
                 }
             }
         }
-        if(c==0) return ans-1;
-        return ans;
+        return ans-1;
     }
 }
