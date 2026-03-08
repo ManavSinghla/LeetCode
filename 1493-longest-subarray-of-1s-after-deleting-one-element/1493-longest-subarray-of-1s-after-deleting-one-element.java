@@ -12,6 +12,7 @@ class Solution {
             }
             else{
                 if(c==0){
+                ans=Math.max(j-i+1,ans);
                 j++;
                 c++;
                 }
@@ -22,6 +23,7 @@ class Solution {
                 }
             }
         }
+        // if(ans==0) return 0;
         return ans-1;
     }
 }
