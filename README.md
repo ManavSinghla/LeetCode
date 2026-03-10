@@ -106,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0160-intersection-of-two-linked-lists](https://github.com/ManavSinghla/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
+| [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 ## Linked List
@@ -151,6 +152,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
@@ -211,4 +213,12 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+## Queue
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+## Counting
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 <!---LeetCode Topics End-->
