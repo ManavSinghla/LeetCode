@@ -22,6 +22,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0209-minimum-size-subarray-sum](https://github.com/ManavSinghla/LeetCode/tree/main/0209-minimum-size-subarray-sum/) | Medium |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManavSinghla/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
+| [0260-single-number-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/ManavSinghla/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0704-binary-search](https://github.com/ManavSinghla/LeetCode/tree/main/0704-binary-search/) | Easy |
@@ -198,6 +199,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0260-single-number-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Tree
