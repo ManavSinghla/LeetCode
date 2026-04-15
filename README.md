@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/ManavSinghla/LeetCode/tree/main/0136-single-number/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ManavSinghla/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0231-power-of-two](https://github.com/ManavSinghla/LeetCode/tree/main/0231-power-of-two/) | Easy |
 | [0260-single-number-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0260-single-number-iii/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
@@ -279,5 +280,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0169-majority-element](https://github.com/ManavSinghla/LeetCode/tree/main/0169-majority-element/) | Easy |
+| [0191-number-of-1-bits](https://github.com/ManavSinghla/LeetCode/tree/main/0191-number-of-1-bits/) | Easy |
 | [0240-search-a-2d-matrix-ii](https://github.com/ManavSinghla/LeetCode/tree/main/0240-search-a-2d-matrix-ii/) | Medium |
 <!---LeetCode Topics End-->
