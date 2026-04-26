@@ -61,6 +61,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0234-palindrome-linked-list](https://github.com/ManavSinghla/LeetCode/tree/main/0234-palindrome-linked-list/) | Easy |
 | [0283-move-zeroes](https://github.com/ManavSinghla/LeetCode/tree/main/0283-move-zeroes/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0443-string-compression](https://github.com/ManavSinghla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0118-pascals-triangle](https://github.com/ManavSinghla/LeetCode/tree/main/0118-pascals-triangle/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/ManavSinghla/LeetCode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0198-house-robber](https://github.com/ManavSinghla/LeetCode/tree/main/0198-house-robber/) | Medium |
+| [0392-is-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0486-predict-the-winner](https://github.com/ManavSinghla/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -211,6 +213,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0392-is-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/0392-is-subsequence/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/ManavSinghla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
