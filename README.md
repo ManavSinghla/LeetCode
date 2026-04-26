@@ -202,6 +202,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ManavSinghla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
@@ -247,6 +248,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/ManavSinghla/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [1071-greatest-common-divisor-of-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 ## Randomized
 | Problem Name | Difficulty |
 | ------- | ------- |
