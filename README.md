@@ -44,6 +44,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ManavSinghla/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManavSinghla/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManavSinghla/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ManavSinghla/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ManavSinghla/LeetCode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
@@ -65,6 +66,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0443-string-compression](https://github.com/ManavSinghla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ManavSinghla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
@@ -75,6 +77,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ManavSinghla/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -158,6 +161,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
