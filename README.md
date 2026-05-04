@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0334-increasing-triplet-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/ManavSinghla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
+| [0649-dota2-senate](https://github.com/ManavSinghla/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Dynamic Programming
@@ -242,6 +243,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0443-string-compression](https://github.com/ManavSinghla/LeetCode/tree/main/0443-string-compression/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0649-dota2-senate](https://github.com/ManavSinghla/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [1047-remove-all-adjacent-duplicates-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/1047-remove-all-adjacent-duplicates-in-string/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
@@ -325,6 +327,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
+| [0649-dota2-senate](https://github.com/ManavSinghla/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0933-number-of-recent-calls](https://github.com/ManavSinghla/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
 ## Counting
 | Problem Name | Difficulty |
