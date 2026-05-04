@@ -52,6 +52,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ManavSinghla/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ManavSinghla/LeetCode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -175,6 +176,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -221,6 +223,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -309,6 +312,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0054-spiral-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0867-transpose-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
+| [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
