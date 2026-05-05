@@ -14,17 +14,26 @@
  * }
  */
 class Solution {
-    void fun(Long sum, int[] ans, TreeNode root,int k){
-        if(root==null) return;
-        sum+=root.val;
-        if(sum==k) ans[0]++;
-        fun(sum,ans,root.left,k);
-        fun(sum,ans,root.right,k);
+    int dfs(TreeNode node, long currSum, int target,Map<Long, Integer> map) {
+        if (node == null) return 0;
+
+        currSum += node.val;
+
+        int count = map.getOrDefault(currSum - target, 0);
+
+        map.put(currSum, map.getOrDefault(currSum, 0) + 1);
+
+        count += dfs(node.left, currSum, target, map);
+        count += dfs(node.right, currSum, target, map);
+
+        // backtrack
+        map.put(currSum, map.get(currSum) - 1);
+
+        return count;
     }
     public int pathSum(TreeNode root, int targetSum) {
-        if(root==null) return 0;
-        int[] ans={0};
-        fun(0L,ans,root,targetSum);
-        return ans[0]+pathSum(root.left,targetSum)+pathSum(root.right,targetSum);
+        Map<Long, Integer> map = new HashMap<>();
+        map.put(0L, 1); // base case
+        return dfs(root, 0L, targetSum, map);
     }
 }
