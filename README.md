@@ -209,6 +209,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -216,6 +217,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -283,6 +285,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -359,4 +362,8 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0933-number-of-recent-calls](https://github.com/ManavSinghla/LeetCode/tree/main/0933-number-of-recent-calls/) | Easy |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0104-maximum-depth-of-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 <!---LeetCode Topics End-->
