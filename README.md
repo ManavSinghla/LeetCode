@@ -215,6 +215,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Breadth-First Search
@@ -225,6 +226,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 ## Union-Find
 | Problem Name | Difficulty |
@@ -292,6 +294,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Bitmask
@@ -375,5 +378,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0104-maximum-depth-of-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0104-maximum-depth-of-binary-tree/) | Easy |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
+| [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
 <!---LeetCode Topics End-->
