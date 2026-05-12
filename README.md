@@ -57,6 +57,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ManavSinghla/LeetCode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 ## Two Pointers
@@ -81,6 +82,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1768-merge-strings-alternately](https://github.com/ManavSinghla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/ManavSinghla/LeetCode/tree/main/2095-delete-the-middle-node-of-a-linked-list/) | Medium |
 | [2130-maximum-twin-sum-of-a-linked-list](https://github.com/ManavSinghla/LeetCode/tree/main/2130-maximum-twin-sum-of-a-linked-list/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -378,6 +380,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 ## Queue
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -433,6 +436,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0215-kth-largest-element-in-an-array](https://github.com/ManavSinghla/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManavSinghla/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
+| [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
