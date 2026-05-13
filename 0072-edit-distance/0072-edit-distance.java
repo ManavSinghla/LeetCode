@@ -3,10 +3,10 @@ class Solution {
         int n=text1.length();
         int m=text2.length();
         int[][] ans=new int[n+1][m+1];
-        for(int i=0;i<n;i++){
+        for(int i=0;i<=n;i++){
             ans[i][0]=i;
         }
-        for(int j=0;j<m;j++){
+        for(int j=0;j<=m;j++){
             ans[0][j]=j;
         }
         for(int i=1;i<=n;i++){
