@@ -145,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0486-predict-the-winner](https://github.com/ManavSinghla/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [0746-min-cost-climbing-stairs](https://github.com/ManavSinghla/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
+| [0790-domino-and-tromino-tiling](https://github.com/ManavSinghla/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
 | [1137-n-th-tribonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
