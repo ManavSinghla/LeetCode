@@ -36,6 +36,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ManavSinghla/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManavSinghla/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0486-predict-the-winner](https://github.com/ManavSinghla/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0605-can-place-flowers](https://github.com/ManavSinghla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
@@ -102,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0215-kth-largest-element-in-an-array](https://github.com/ManavSinghla/LeetCode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
 | [0435-non-overlapping-intervals](https://github.com/ManavSinghla/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManavSinghla/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [1268-search-suggestions-system](https://github.com/ManavSinghla/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
@@ -134,6 +136,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0011-container-with-most-water](https://github.com/ManavSinghla/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0334-increasing-triplet-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/0334-increasing-triplet-subsequence/) | Medium |
 | [0435-non-overlapping-intervals](https://github.com/ManavSinghla/LeetCode/tree/main/0435-non-overlapping-intervals/) | Medium |
+| [0452-minimum-number-of-arrows-to-burst-balloons](https://github.com/ManavSinghla/LeetCode/tree/main/0452-minimum-number-of-arrows-to-burst-balloons/) | Medium |
 | [0455-assign-cookies](https://github.com/ManavSinghla/LeetCode/tree/main/0455-assign-cookies/) | Easy |
 | [0605-can-place-flowers](https://github.com/ManavSinghla/LeetCode/tree/main/0605-can-place-flowers/) | Easy |
 | [0649-dota2-senate](https://github.com/ManavSinghla/LeetCode/tree/main/0649-dota2-senate/) | Medium |
