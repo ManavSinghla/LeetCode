@@ -58,6 +58,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ManavSinghla/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ManavSinghla/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1268-search-suggestions-system](https://github.com/ManavSinghla/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1431-kids-with-the-greatest-number-of-candies](https://github.com/ManavSinghla/LeetCode/tree/main/1431-kids-with-the-greatest-number-of-candies/) | Easy |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManavSinghla/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
@@ -144,6 +145,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0649-dota2-senate](https://github.com/ManavSinghla/LeetCode/tree/main/0649-dota2-senate/) | Medium |
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ManavSinghla/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 ## Dynamic Programming
@@ -229,6 +231,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ManavSinghla/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
+| [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -368,6 +371,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0338-counting-bits](https://github.com/ManavSinghla/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ManavSinghla/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
+| [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Tree
 | Problem Name | Difficulty |
