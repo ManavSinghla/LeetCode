@@ -225,6 +225,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0012-integer-to-roman](https://github.com/ManavSinghla/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManavSinghla/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0146-lru-cache](https://github.com/ManavSinghla/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManavSinghla/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
@@ -324,6 +325,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManavSinghla/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
+| [0012-integer-to-roman](https://github.com/ManavSinghla/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ManavSinghla/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManavSinghla/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
@@ -401,6 +403,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/ManavSinghla/LeetCode/tree/main/0002-add-two-numbers/) | Medium |
+| [0012-integer-to-roman](https://github.com/ManavSinghla/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0048-rotate-image](https://github.com/ManavSinghla/LeetCode/tree/main/0048-rotate-image/) | Medium |
 | [0062-unique-paths](https://github.com/ManavSinghla/LeetCode/tree/main/0062-unique-paths/) | Medium |
 | [0069-sqrtx](https://github.com/ManavSinghla/LeetCode/tree/main/0069-sqrtx/) | Easy |
