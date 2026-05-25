@@ -8,6 +8,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/ManavSinghla/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
 | [0014-longest-common-prefix](https://github.com/ManavSinghla/LeetCode/tree/main/0014-longest-common-prefix/) | Easy |
+| [0018-4sum](https://github.com/ManavSinghla/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0033-search-in-rotated-sorted-array](https://github.com/ManavSinghla/LeetCode/tree/main/0033-search-in-rotated-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/ManavSinghla/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ManavSinghla/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
@@ -79,6 +80,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0005-longest-palindromic-substring](https://github.com/ManavSinghla/LeetCode/tree/main/0005-longest-palindromic-substring/) | Medium |
 | [0011-container-with-most-water](https://github.com/ManavSinghla/LeetCode/tree/main/0011-container-with-most-water/) | Medium |
+| [0018-4sum](https://github.com/ManavSinghla/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/ManavSinghla/LeetCode/tree/main/0019-remove-nth-node-from-end-of-list/) | Medium |
 | [0042-trapping-rain-water](https://github.com/ManavSinghla/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/ManavSinghla/LeetCode/tree/main/0080-remove-duplicates-from-sorted-array-ii/) | Medium |
@@ -104,6 +106,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0018-4sum](https://github.com/ManavSinghla/LeetCode/tree/main/0018-4sum/) | Medium |
 | [0056-merge-intervals](https://github.com/ManavSinghla/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ManavSinghla/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ManavSinghla/LeetCode/tree/main/0169-majority-element/) | Easy |
