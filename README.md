@@ -362,6 +362,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManavSinghla/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0022-generate-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
 | [0051-n-queens](https://github.com/ManavSinghla/LeetCode/tree/main/0051-n-queens/) | Hard |
+| [0052-n-queens-ii](https://github.com/ManavSinghla/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
 ## Graph Theory
 | Problem Name | Difficulty |
