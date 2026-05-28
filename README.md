@@ -13,6 +13,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0035-search-insert-position](https://github.com/ManavSinghla/LeetCode/tree/main/0035-search-insert-position/) | Easy |
 | [0042-trapping-rain-water](https://github.com/ManavSinghla/LeetCode/tree/main/0042-trapping-rain-water/) | Hard |
 | [0048-rotate-image](https://github.com/ManavSinghla/LeetCode/tree/main/0048-rotate-image/) | Medium |
+| [0049-group-anagrams](https://github.com/ManavSinghla/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0051-n-queens](https://github.com/ManavSinghla/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0054-spiral-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0054-spiral-matrix/) | Medium |
 | [0056-merge-intervals](https://github.com/ManavSinghla/LeetCode/tree/main/0056-merge-intervals/) | Medium |
@@ -108,6 +109,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0018-4sum](https://github.com/ManavSinghla/LeetCode/tree/main/0018-4sum/) | Medium |
+| [0049-group-anagrams](https://github.com/ManavSinghla/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0056-merge-intervals](https://github.com/ManavSinghla/LeetCode/tree/main/0056-merge-intervals/) | Medium |
 | [0088-merge-sorted-array](https://github.com/ManavSinghla/LeetCode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0169-majority-element](https://github.com/ManavSinghla/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -231,6 +233,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0012-integer-to-roman](https://github.com/ManavSinghla/LeetCode/tree/main/0012-integer-to-roman/) | Medium |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManavSinghla/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
+| [0049-group-anagrams](https://github.com/ManavSinghla/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0146-lru-cache](https://github.com/ManavSinghla/LeetCode/tree/main/0146-lru-cache/) | Medium |
 | [0160-intersection-of-two-linked-lists](https://github.com/ManavSinghla/LeetCode/tree/main/0160-intersection-of-two-linked-lists/) | Easy |
 | [0169-majority-element](https://github.com/ManavSinghla/LeetCode/tree/main/0169-majority-element/) | Easy |
@@ -334,6 +337,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0017-letter-combinations-of-a-phone-number](https://github.com/ManavSinghla/LeetCode/tree/main/0017-letter-combinations-of-a-phone-number/) | Medium |
 | [0020-valid-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0022-generate-parentheses/) | Medium |
+| [0049-group-anagrams](https://github.com/ManavSinghla/LeetCode/tree/main/0049-group-anagrams/) | Medium |
 | [0072-edit-distance](https://github.com/ManavSinghla/LeetCode/tree/main/0072-edit-distance/) | Medium |
 | [0151-reverse-words-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
