@@ -78,6 +78,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ManavSinghla/LeetCode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -106,6 +107,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavSinghla/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -124,6 +126,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavSinghla/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -144,6 +147,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1268-search-suggestions-system](https://github.com/ManavSinghla/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavSinghla/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Greedy
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -159,6 +163,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
+| [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
