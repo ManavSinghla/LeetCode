@@ -1,8 +1,7 @@
 class Solution {
     private static int MAX = 100001;
     private static int[] dp = new int[MAX], pref = new int[MAX];
-
-    static {
+    public int totalWaviness(int A, int B) {
         for (int i = 100; i < MAX; i++) {
             int r = i % 10;
             int m = (i / 10) % 10;
@@ -12,9 +11,6 @@ class Solution {
             dp[i] = dp[i / 10] + isWave;
             pref[i] = pref[i - 1] + dp[i];
         }
-    }
-
-    public int totalWaviness(int A, int B) {
         return pref[B] - pref[A - 1];
     }
 }
