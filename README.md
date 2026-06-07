@@ -70,6 +70,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/ManavSinghla/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManavSinghla/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ManavSinghla/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavSinghla/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
@@ -259,6 +260,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManavSinghla/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
@@ -416,6 +418,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Bitmask
 | Problem Name | Difficulty |
@@ -513,6 +516,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1448-count-good-nodes-in-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1448-count-good-nodes-in-binary-tree/) | Medium |
+| [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 ## Binary Search Tree
 | Problem Name | Difficulty |
 | ------- | ------- |
