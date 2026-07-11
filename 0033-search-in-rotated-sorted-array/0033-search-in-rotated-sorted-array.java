@@ -5,17 +5,21 @@ class Solution {
         while(h>=l){
             int mid=l+(h-l)/2;
             if(nums[mid]==target) return mid;
-            else if(nums[mid]>=nums[l]){
+            else if(nums[l]<=nums[mid]){
                 if(nums[l]<=target && nums[mid]>target){
                     h=mid-1;
                 }
-                else l=mid+1;
+                else{
+                    l=mid+1;
+                }
             }
             else{
                 if(nums[h]>=target && nums[mid]<target){
                     l=mid+1;
                 }
-                else h=mid-1;
+                else{
+                    h=mid-1;
+                }
             }
         }
         return -1;
