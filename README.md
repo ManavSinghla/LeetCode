@@ -73,6 +73,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1732-find-the-highest-altitude](https://github.com/ManavSinghla/LeetCode/tree/main/1732-find-the-highest-altitude/) | Easy |
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManavSinghla/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ManavSinghla/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ManavSinghla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -461,6 +462,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0509-fibonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManavSinghla/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ManavSinghla/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -594,5 +596,6 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ManavSinghla/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManavSinghla/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 <!---LeetCode Topics End-->
