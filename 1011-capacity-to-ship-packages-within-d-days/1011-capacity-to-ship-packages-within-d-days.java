@@ -1,20 +1,19 @@
 class Solution {
     boolean check(int[] nums,int d,int mid){
-        int s=0;
-        int c=1;
+        int s=0,c=1;
         for(int i=0;i<nums.length;i++){
             if(s+nums[i]>mid){
-                c++;
                 s=0;
+                c++;
             }
             s+=nums[i];
         }
         return d>=c;
     }
     public int shipWithinDays(int[] weights, int days) {
-        int low=0;
-        int high=0;
-        for(int i=0;i<weights.length;i++){
+        int low=weights[0];
+        int high=weights[0];
+        for(int i=1;i<weights.length;i++){
             low=Math.max(low,weights[i]);
             high+=weights[i];
         }
