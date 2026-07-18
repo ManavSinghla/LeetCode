@@ -1,21 +1,19 @@
 class Solution {
     public int missingNumber(int[] nums) {
-        int n=nums.length;
-        int i=0;
-        while(i<n){
+        for(int i=0;i<nums.length;i++){
             int ci=nums[i];
-            if(ci<n && nums[ci]!=nums[i]){
-                int temp=nums[ci];
-                nums[ci]=nums[i];
-                nums[i]=temp;
-            }
-            else{
-                i++;
+            if(nums.length>ci && nums[ci]!=nums[i]){
+                int temp=nums[i];
+                nums[i]=nums[ci];
+                nums[ci]=temp;
+                i--;
             }
         }
-        for(int j=0;j<n;j++){
-            if(nums[j]!=j) return j;
+        for(int i=0;i<nums.length;i++){
+            if(nums[i]!=i){
+                return i;
+            }
         }
-        return n;
+        return nums.length;
     }
 }
