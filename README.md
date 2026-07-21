@@ -326,6 +326,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ManavSinghla/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1161-maximum-level-sum-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1161-maximum-level-sum-of-a-binary-tree/) | Medium |
@@ -343,6 +344,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
 | [0841-keys-and-rooms](https://github.com/ManavSinghla/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
@@ -357,6 +359,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManavSinghla/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Matrix
 | Problem Name | Difficulty |
@@ -419,6 +422,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
+| [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/ManavSinghla/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ManavSinghla/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
 | [2685-count-the-number-of-complete-components](https://github.com/ManavSinghla/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
