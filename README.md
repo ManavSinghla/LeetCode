@@ -216,6 +216,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1143-longest-common-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManavSinghla/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ManavSinghla/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
@@ -286,6 +287,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
 | [2336-smallest-number-in-infinite-set](https://github.com/ManavSinghla/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
@@ -406,6 +408,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1754-largest-merge-of-two-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ManavSinghla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Backtracking
@@ -425,11 +428,13 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0841-keys-and-rooms](https://github.com/ManavSinghla/LeetCode/tree/main/0841-keys-and-rooms/) | Medium |
 | [1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero](https://github.com/ManavSinghla/LeetCode/tree/main/1466-reorder-routes-to-make-all-paths-lead-to-the-city-zero/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 | [2685-count-the-number-of-complete-components](https://github.com/ManavSinghla/LeetCode/tree/main/2685-count-the-number-of-complete-components/) | Medium |
 ## Topological Sort
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Bit Manipulation
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -504,6 +509,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Game Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -531,6 +537,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0169-majority-element](https://github.com/ManavSinghla/LeetCode/tree/main/0169-majority-element/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
+| [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
