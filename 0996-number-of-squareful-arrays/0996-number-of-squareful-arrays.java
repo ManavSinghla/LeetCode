@@ -11,7 +11,7 @@ class Solution {
         }
         for(int i=0;i<nums.length;i++){
             if(vis[i]) continue;
-            if(i>0 && nums[i]==nums[i-1] && vis[i-1]) continue;
+            if(i>0 && nums[i]==nums[i-1] && !vis[i-1]) continue;
             if(temp.size() > 0 && !isPerfectSquare(temp.get(temp.size()-1) + nums[i])) continue;
             vis[i]=true;
             temp.add(nums[i]);
