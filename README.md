@@ -64,6 +64,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [0875-koko-eating-bananas](https://github.com/ManavSinghla/LeetCode/tree/main/0875-koko-eating-bananas/) | Medium |
 | [0994-rotting-oranges](https://github.com/ManavSinghla/LeetCode/tree/main/0994-rotting-oranges/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1004-max-consecutive-ones-iii](https://github.com/ManavSinghla/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManavSinghla/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1207-unique-number-of-occurrences](https://github.com/ManavSinghla/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
@@ -217,6 +218,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/ManavSinghla/LeetCode/tree/main/0714-best-time-to-buy-and-sell-stock-with-transaction-fee/) | Medium |
 | [0746-min-cost-climbing-stairs](https://github.com/ManavSinghla/LeetCode/tree/main/0746-min-cost-climbing-stairs/) | Easy |
 | [0790-domino-and-tromino-tiling](https://github.com/ManavSinghla/LeetCode/tree/main/0790-domino-and-tromino-tiling/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1137-n-th-tribonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1143-longest-common-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/1143-longest-common-subsequence/) | Medium |
 | [1372-longest-zigzag-path-in-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/1372-longest-zigzag-path-in-a-binary-tree/) | Medium |
@@ -289,6 +291,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0438-find-all-anagrams-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0438-find-all-anagrams-in-a-string/) | Medium |
 | [0567-permutation-in-string](https://github.com/ManavSinghla/LeetCode/tree/main/0567-permutation-in-string/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1207-unique-number-of-occurrences](https://github.com/ManavSinghla/LeetCode/tree/main/1207-unique-number-of-occurrences/) | Easy |
 | [1331-rank-transform-of-an-array](https://github.com/ManavSinghla/LeetCode/tree/main/1331-rank-transform-of-an-array/) | Easy |
 | [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
@@ -427,6 +430,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ManavSinghla/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/ManavSinghla/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -453,6 +457,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0268-missing-number](https://github.com/ManavSinghla/LeetCode/tree/main/0268-missing-number/) | Easy |
 | [0338-counting-bits](https://github.com/ManavSinghla/LeetCode/tree/main/0338-counting-bits/) | Easy |
 | [0861-score-after-flipping-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0861-score-after-flipping-matrix/) | Medium |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1318-minimum-flips-to-make-a-or-b-equal-to-c](https://github.com/ManavSinghla/LeetCode/tree/main/1318-minimum-flips-to-make-a-or-b-equal-to-c/) | Medium |
 | [1386-cinema-seat-allocation](https://github.com/ManavSinghla/LeetCode/tree/main/1386-cinema-seat-allocation/) | Medium |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
@@ -473,6 +478,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 ## Bitmask
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [2791-count-paths-that-can-form-a-palindrome-in-a-tree](https://github.com/ManavSinghla/LeetCode/tree/main/2791-count-paths-that-can-form-a-palindrome-in-a-tree/) | Hard |
 ## Math
 | Problem Name | Difficulty |
@@ -491,6 +497,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0380-insert-delete-getrandom-o1](https://github.com/ManavSinghla/LeetCode/tree/main/0380-insert-delete-getrandom-o1/) | Medium |
 | [0486-predict-the-winner](https://github.com/ManavSinghla/LeetCode/tree/main/0486-predict-the-winner/) | Medium |
 | [0509-fibonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/0509-fibonacci-number/) | Easy |
+| [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 | [1071-greatest-common-divisor-of-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1071-greatest-common-divisor-of-strings/) | Easy |
 | [1137-n-th-tribonacci-number](https://github.com/ManavSinghla/LeetCode/tree/main/1137-n-th-tribonacci-number/) | Easy |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
