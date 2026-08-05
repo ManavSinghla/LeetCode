@@ -7,11 +7,9 @@ class Solution {
         HashMap<Character,Integer> map=new HashMap<>();
         for(int i=0;i<n;i++){
             map.put(s.charAt(i),map.getOrDefault(s.charAt(i),0)+1);
-            if(map.get(s.charAt(i))==2){
-                while(map.get(s.charAt(i))==2){
-                    map.put(s.charAt(j),map.get(s.charAt(j))-1);
-                    j++;
-                }
+            while(map.get(s.charAt(i))==2){
+                map.put(s.charAt(j),map.get(s.charAt(j))-1);
+                j++;
             }
             temp=i-j+1;
             ans=Math.max(temp,ans);
