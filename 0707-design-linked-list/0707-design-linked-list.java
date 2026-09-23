@@ -6,7 +6,6 @@ class MyLinkedList {
             this.val=val;
         }
     }
-
     private Node head;
     private int size;
 
@@ -25,23 +24,32 @@ class MyLinkedList {
     }
     
     public void addAtHead(int val) {
-        addAtIndex(0,val);
+        Node temp=new Node(val);
+        temp.next=head.next;
+        head.next=temp;
+        size++;
     }
     
     public void addAtTail(int val) {
-        addAtIndex(size,val);
+        Node temp=new Node(val);
+        Node curr=head;
+        while(curr!=null && curr.next!=null){
+            curr=curr.next;
+        }
+        curr.next=temp;
+        size++;
         
     }
     
     public void addAtIndex(int index, int val) {
         if(index<0 || index>size) return;
+        Node temp=new Node(val);
         Node curr=head;
         for(int i=0;i<index;i++){
             curr=curr.next;
         }
-        Node a=new Node(val);
-        a.next=curr.next;
-        curr.next=a;
+        temp.next=curr.next;
+        curr.next=temp;
         size++;
     }
     
@@ -53,6 +61,7 @@ class MyLinkedList {
         }
         curr.next=curr.next.next;
         size--;
+        
     }
 }
 
