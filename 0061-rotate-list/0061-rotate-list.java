@@ -10,15 +10,15 @@
  */
 class Solution {
     public ListNode rotateRight(ListNode head, int k) {
+        ListNode slow=head;
+        ListNode fast=head;
         ListNode temp=head;
         int c=0;
         while(temp!=null){
-            c++;
             temp=temp.next;
+            c++;
         }
-        if(c==0 || k==0 ) return head;
-        ListNode slow=head;
-        ListNode fast=head;
+        if(c==0 || k==0) return head;
         for(int i=0;i<k%c;i++){
             fast=fast.next;
         }
