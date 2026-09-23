@@ -1,32 +1,38 @@
 class Solution {
-    public int[] asteroidCollision(int[] asteroids) {
-        Stack<Integer> stack = new Stack<>();
-        
-        for (int a : asteroids) {
-            if (a > 0) {
-                stack.push(a);
-            } else {
-                while (!stack.isEmpty() && stack.peek() > 0 && stack.peek() < -a) {
-                    stack.pop();
+    public int[] asteroidCollision(int[] arr) {
+        List<Integer> ans=new ArrayList<>();
+        Stack<Integer> st=new Stack<>();
+        for(int i=arr.length-1;i>=0;i--){
+            if(arr[i]<0){
+                st.add(arr[i]);
+            }
+            else{
+                // if(!st.isEmpty() && Math.abs(st.peek())==arr[i]){
+                //     st.pop();
+                //     continue;
+                // }
+                while(!st.isEmpty() && Math.abs(st.peek())<arr[i]){
+                    st.pop();
                 }
-
-                if (stack.isEmpty() || stack.peek() < 0)  {
-                    stack.push(a);
+                if(!st.isEmpty() && Math.abs(st.peek())==arr[i]){
+                    st.pop();
+                    continue;
                 }
-
-                if (stack.peek() == -a) {
-                    stack.pop();
+                if(st.isEmpty()){
+                    ans.add(arr[i]);
                 }
             }
         }
-
-        int[] res = new int[stack.size()];
-        int i = stack.size() - 1;
-
-        while(!stack.isEmpty()) {
-            res[i--] = stack.pop();
+        int x=st.size();
+        int y=ans.size();
+        int[] result=new int[x+y];
+        for(int i=0;i<x;i++){
+            result[i]=st.pop();
         }
-
-        return res;   
+        Collections.reverse(ans);
+        for(int i=x+y-1;i>=x;i--){
+            result[i]=ans.get(i-x);
+        }
+        return result;
     }
 }
