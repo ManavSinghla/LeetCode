@@ -350,6 +350,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/ManavSinghla/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
@@ -369,6 +370,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/ManavSinghla/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
 | [0684-redundant-connection](https://github.com/ManavSinghla/LeetCode/tree/main/0684-redundant-connection/) | Medium |
 | [0733-flood-fill](https://github.com/ManavSinghla/LeetCode/tree/main/0733-flood-fill/) | Easy |
@@ -484,6 +486,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/ManavSinghla/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ManavSinghla/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/ManavSinghla/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ManavSinghla/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
@@ -599,6 +602,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0129-sum-root-to-leaf-numbers](https://github.com/ManavSinghla/LeetCode/tree/main/0129-sum-root-to-leaf-numbers/) | Medium |
 | [0199-binary-tree-right-side-view](https://github.com/ManavSinghla/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0236-lowest-common-ancestor-of-a-binary-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0236-lowest-common-ancestor-of-a-binary-tree/) | Medium |
+| [0404-sum-of-left-leaves](https://github.com/ManavSinghla/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0437-path-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0437-path-sum-iii/) | Medium |
 | [0450-delete-node-in-a-bst](https://github.com/ManavSinghla/LeetCode/tree/main/0450-delete-node-in-a-bst/) | Medium |
 | [0700-search-in-a-binary-search-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0700-search-in-a-binary-search-tree/) | Easy |
