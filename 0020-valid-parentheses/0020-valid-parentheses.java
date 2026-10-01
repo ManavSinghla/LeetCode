@@ -6,11 +6,9 @@ class Solution {
             else if(s.charAt(i)=='[') st.add(']');
             else if(s.charAt(i)=='{') st.add('}');
             else{
-                if(st.isEmpty() || st.peek()!=s.charAt(i)) return false;
-                else st.pop();
+                if(st.isEmpty() || st.pop()!=s.charAt(i)) return false;
             }
         }
-        if(!st.isEmpty()) return false;
-        return true;
+        return st.isEmpty();
     }
 }
