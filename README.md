@@ -369,6 +369,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0199-binary-tree-right-side-view](https://github.com/ManavSinghla/LeetCode/tree/main/0199-binary-tree-right-side-view/) | Medium |
 | [0200-number-of-islands](https://github.com/ManavSinghla/LeetCode/tree/main/0200-number-of-islands/) | Medium |
 | [0207-course-schedule](https://github.com/ManavSinghla/LeetCode/tree/main/0207-course-schedule/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0399-evaluate-division](https://github.com/ManavSinghla/LeetCode/tree/main/0399-evaluate-division/) | Medium |
 | [0404-sum-of-left-leaves](https://github.com/ManavSinghla/LeetCode/tree/main/0404-sum-of-left-leaves/) | Easy |
 | [0547-number-of-provinces](https://github.com/ManavSinghla/LeetCode/tree/main/0547-number-of-provinces/) | Medium |
@@ -418,6 +419,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0151-reverse-words-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0151-reverse-words-in-a-string/) | Medium |
 | [0208-implement-trie-prefix-tree](https://github.com/ManavSinghla/LeetCode/tree/main/0208-implement-trie-prefix-tree/) | Medium |
 | [0242-valid-anagram](https://github.com/ManavSinghla/LeetCode/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0345-reverse-vowels-of-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0345-reverse-vowels-of-a-string/) | Easy |
 | [0387-first-unique-character-in-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/0387-first-unique-character-in-a-string/) | Easy |
 | [0392-is-subsequence](https://github.com/ManavSinghla/LeetCode/tree/main/0392-is-subsequence/) | Easy |
@@ -448,6 +450,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0051-n-queens](https://github.com/ManavSinghla/LeetCode/tree/main/0051-n-queens/) | Hard |
 | [0052-n-queens-ii](https://github.com/ManavSinghla/LeetCode/tree/main/0052-n-queens-ii/) | Hard |
 | [0216-combination-sum-iii](https://github.com/ManavSinghla/LeetCode/tree/main/0216-combination-sum-iii/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/ManavSinghla/LeetCode/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0996-number-of-squareful-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/0996-number-of-squareful-arrays/) | Hard |
 ## Graph Theory
 | Problem Name | Difficulty |
