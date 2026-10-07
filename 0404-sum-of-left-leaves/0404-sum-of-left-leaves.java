@@ -14,12 +14,9 @@
  * }
  */
 class Solution {
-    int fun(TreeNode root){
-        if(root==null) return 0;
-        if(root.left!=null && root.left.left==null && root.left.right==null) return root.left.val+fun(root.right);
-        return fun(root.left)+fun(root.right);
-    }
     public int sumOfLeftLeaves(TreeNode root) {
-        return fun(root);
+        if(root==null) return 0;
+        if(root.left!=null && root.left.left==null && root.left.right==null) return root.left.val+sumOfLeftLeaves(root.right);
+        return sumOfLeftLeaves(root.left)+sumOfLeftLeaves(root.right);
     }
 }
