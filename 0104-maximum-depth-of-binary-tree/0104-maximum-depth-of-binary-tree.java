@@ -14,16 +14,8 @@
  * }
  */
 class Solution {
-    void fun(int[] ans,int temp, TreeNode root){
-        if(root==null) return;
-        temp++;
-        ans[0]=Math.max(temp,ans[0]);
-        fun(ans,temp,root.left);
-        fun(ans,temp,root.right);
-    }
     public int maxDepth(TreeNode root) {
-        int[] ans={0};
-        fun(ans,0,root);
-        return ans[0];
+        if(root==null) return 0;
+        return 1+Math.max(maxDepth(root.left),maxDepth(root.right));
     }
 }
