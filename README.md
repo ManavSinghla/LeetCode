@@ -92,6 +92,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [2672-number-of-adjacent-elements-with-the-same-color](https://github.com/ManavSinghla/LeetCode/tree/main/2672-number-of-adjacent-elements-with-the-same-color/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ManavSinghla/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/ManavSinghla/LeetCode/tree/main/2865-beautiful-towers-i/) | Medium |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManavSinghla/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
@@ -669,6 +670,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ManavSinghla/LeetCode/tree/main/0204-count-primes/) | Medium |
+| [2778-sum-of-squares-of-special-elements](https://github.com/ManavSinghla/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ManavSinghla/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 ## Segment Tree
 | Problem Name | Difficulty |
