@@ -95,6 +95,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManavSinghla/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
 | [2865-beautiful-towers-i](https://github.com/ManavSinghla/LeetCode/tree/main/2865-beautiful-towers-i/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManavSinghla/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManavSinghla/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManavSinghla/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -320,6 +321,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2336-smallest-number-in-infinite-set](https://github.com/ManavSinghla/LeetCode/tree/main/2336-smallest-number-in-infinite-set/) | Medium |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManavSinghla/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManavSinghla/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -683,6 +685,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManavSinghla/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManavSinghla/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3691-maximum-total-subarray-value-ii](https://github.com/ManavSinghla/LeetCode/tree/main/3691-maximum-total-subarray-value-ii/) | Hard |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -708,4 +711,5 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManavSinghla/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
+| [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManavSinghla/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 <!---LeetCode Topics End-->
