@@ -84,6 +84,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1926-nearest-exit-from-entrance-in-maze](https://github.com/ManavSinghla/LeetCode/tree/main/1926-nearest-exit-from-entrance-in-maze/) | Medium |
 | [1944-number-of-visible-people-in-a-queue](https://github.com/ManavSinghla/LeetCode/tree/main/1944-number-of-visible-people-in-a-queue/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManavSinghla/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ManavSinghla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
 | [2196-create-binary-tree-from-descriptions](https://github.com/ManavSinghla/LeetCode/tree/main/2196-create-binary-tree-from-descriptions/) | Medium |
 | [2215-find-the-difference-of-two-arrays](https://github.com/ManavSinghla/LeetCode/tree/main/2215-find-the-difference-of-two-arrays/) | Easy |
@@ -161,6 +162,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/ManavSinghla/LeetCode/tree/main/1464-maximum-product-of-two-elements-in-an-array/) | Easy |
 | [1657-determine-if-two-strings-are-close](https://github.com/ManavSinghla/LeetCode/tree/main/1657-determine-if-two-strings-are-close/) | Medium |
 | [1679-max-number-of-k-sum-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/1679-max-number-of-k-sum-pairs/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManavSinghla/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavSinghla/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2542-maximum-subsequence-score](https://github.com/ManavSinghla/LeetCode/tree/main/2542-maximum-subsequence-score/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
@@ -186,6 +188,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1004-max-consecutive-ones-iii](https://github.com/ManavSinghla/LeetCode/tree/main/1004-max-consecutive-ones-iii/) | Medium |
 | [1011-capacity-to-ship-packages-within-d-days](https://github.com/ManavSinghla/LeetCode/tree/main/1011-capacity-to-ship-packages-within-d-days/) | Medium |
 | [1268-search-suggestions-system](https://github.com/ManavSinghla/LeetCode/tree/main/1268-search-suggestions-system/) | Medium |
+| [2089-find-target-indices-after-sorting-array](https://github.com/ManavSinghla/LeetCode/tree/main/2089-find-target-indices-after-sorting-array/) | Easy |
 | [2300-successful-pairs-of-spells-and-potions](https://github.com/ManavSinghla/LeetCode/tree/main/2300-successful-pairs-of-spells-and-potions/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
