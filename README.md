@@ -103,6 +103,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [2913-subarrays-distinct-element-sum-of-squares-i](https://github.com/ManavSinghla/LeetCode/tree/main/2913-subarrays-distinct-element-sum-of-squares-i/) | Easy |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/ManavSinghla/LeetCode/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManavSinghla/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
+| [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ManavSinghla/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManavSinghla/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
