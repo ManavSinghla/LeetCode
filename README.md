@@ -487,6 +487,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1754-largest-merge-of-two-strings](https://github.com/ManavSinghla/LeetCode/tree/main/1754-largest-merge-of-two-strings/) | Medium |
 | [1768-merge-strings-alternately](https://github.com/ManavSinghla/LeetCode/tree/main/1768-merge-strings-alternately/) | Easy |
 | [1857-largest-color-value-in-a-directed-graph](https://github.com/ManavSinghla/LeetCode/tree/main/1857-largest-color-value-in-a-directed-graph/) | Hard |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2472-maximum-number-of-non-overlapping-palindrome-substrings](https://github.com/ManavSinghla/LeetCode/tree/main/2472-maximum-number-of-non-overlapping-palindrome-substrings/) | Hard |
 ## Backtracking
@@ -618,6 +619,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [0867-transpose-matrix](https://github.com/ManavSinghla/LeetCode/tree/main/0867-transpose-matrix/) | Easy |
 | [1260-shift-2d-grid](https://github.com/ManavSinghla/LeetCode/tree/main/1260-shift-2d-grid/) | Easy |
 | [2161-partition-array-according-to-given-pivot](https://github.com/ManavSinghla/LeetCode/tree/main/2161-partition-array-according-to-given-pivot/) | Medium |
+| [2243-calculate-digit-sum-of-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2243-calculate-digit-sum-of-a-string/) | Easy |
 | [2352-equal-row-and-column-pairs](https://github.com/ManavSinghla/LeetCode/tree/main/2352-equal-row-and-column-pairs/) | Medium |
 | [2390-removing-stars-from-a-string](https://github.com/ManavSinghla/LeetCode/tree/main/2390-removing-stars-from-a-string/) | Medium |
 | [2462-total-cost-to-hire-k-workers](https://github.com/ManavSinghla/LeetCode/tree/main/2462-total-cost-to-hire-k-workers/) | Medium |
