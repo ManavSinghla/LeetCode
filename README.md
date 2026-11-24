@@ -108,6 +108,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/ManavSinghla/LeetCode/tree/main/3069-distribute-elements-into-two-arrays-i/) | Easy |
 | [3105-longest-strictly-increasing-or-strictly-decreasing-subarray](https://github.com/ManavSinghla/LeetCode/tree/main/3105-longest-strictly-increasing-or-strictly-decreasing-subarray/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ManavSinghla/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/ManavSinghla/LeetCode/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3633-earliest-finish-time-for-land-and-water-rides-i](https://github.com/ManavSinghla/LeetCode/tree/main/3633-earliest-finish-time-for-land-and-water-rides-i/) | Easy |
 | [3635-earliest-finish-time-for-land-and-water-rides-ii](https://github.com/ManavSinghla/LeetCode/tree/main/3635-earliest-finish-time-for-land-and-water-rides-ii/) | Medium |
@@ -309,6 +310,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/ManavSinghla/LeetCode/tree/main/1456-maximum-number-of-vowels-in-a-substring-of-given-length/) | Medium |
 | [1493-longest-subarray-of-1s-after-deleting-one-element](https://github.com/ManavSinghla/LeetCode/tree/main/1493-longest-subarray-of-1s-after-deleting-one-element/) | Medium |
 | [2302-count-subarrays-with-score-less-than-k](https://github.com/ManavSinghla/LeetCode/tree/main/2302-count-subarrays-with-score-less-than-k/) | Hard |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ManavSinghla/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -585,6 +587,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | [1569-number-of-ways-to-reorder-array-to-get-same-bst](https://github.com/ManavSinghla/LeetCode/tree/main/1569-number-of-ways-to-reorder-array-to-get-same-bst/) | Hard |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
 | [3300-minimum-element-after-replacement-with-digit-sum](https://github.com/ManavSinghla/LeetCode/tree/main/3300-minimum-element-after-replacement-with-digit-sum/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ManavSinghla/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManavSinghla/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 | [3700-number-of-zigzag-arrays-ii](https://github.com/ManavSinghla/LeetCode/tree/main/3700-number-of-zigzag-arrays-ii/) | Hard |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/ManavSinghla/LeetCode/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -730,6 +733,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ManavSinghla/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [2778-sum-of-squares-of-special-elements](https://github.com/ManavSinghla/LeetCode/tree/main/2778-sum-of-squares-of-special-elements/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ManavSinghla/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3751-total-waviness-of-numbers-in-range-i](https://github.com/ManavSinghla/LeetCode/tree/main/3751-total-waviness-of-numbers-in-range-i/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/ManavSinghla/LeetCode/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Segment Tree
@@ -743,6 +747,7 @@ Collection of LeetCode questions to ace the coding interview! - Created using [L
 | ------- | ------- |
 | [0204-count-primes](https://github.com/ManavSinghla/LeetCode/tree/main/0204-count-primes/) | Medium |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/ManavSinghla/LeetCode/tree/main/1979-find-greatest-common-divisor-of-array/) | Easy |
+| [3411-maximum-subarray-with-equal-products](https://github.com/ManavSinghla/LeetCode/tree/main/3411-maximum-subarray-with-equal-products/) | Easy |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/ManavSinghla/LeetCode/tree/main/3658-gcd-of-odd-and-even-sums/) | Easy |
 ## Merge Sort
 | Problem Name | Difficulty |
